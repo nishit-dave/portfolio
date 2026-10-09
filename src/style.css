@@ -12,3 +12,8 @@
 
 .portrait{background:radial-gradient(ellipse at 65% 25%,#f0f1e7 0%,#e4e8dc 60%,#d5ddca 100%)}.portrait img{object-fit:contain;object-position:center bottom;background:transparent}.portrait:after{display:none}.portrait-caption{color:#555e4b;background:#f5f4efdf;padding:7px 10px;border-radius:2px}@media(max-width:700px){.portrait img{object-position:center bottom}}
 
+
+.release-date{margin-top:12px;font-size:13px;font-weight:600;line-height:1.5;letter-spacing:.2px;color:#626957}.app-store-badge{display:inline-block;margin-top:4px;border-radius:9px}.app-store-badge img{display:block;width:156px;height:auto}.app-store-badge:hover{opacity:.85}
+
+
+.journey-note{margin-top:17px;font-size:12px;line-height:1.6;color:#626957}.journey-note time{font-weight:600}
